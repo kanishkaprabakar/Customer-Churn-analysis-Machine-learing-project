@@ -1,4 +1,5 @@
 Customer Churn Prediction – ML & Data Analytics Project
+
 📌 Project Overview
 
 This project predicts whether a customer will churn (leave the service) using a Machine Learning model.
